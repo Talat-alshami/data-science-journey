@@ -1,0 +1,4 @@
+__pycache__/
+*.ipunb_checkpoints/
+.env
+data/
